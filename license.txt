@@ -1,0 +1,171 @@
+
+
+Malayalam Tools
+==================
+
+This setup installs :
+ - Fonts: Manjari, Chilanka & Noto Sans Malayalam UI
+ - Keyboard: Keyman 8.0 + Phonetic & Inscript keymaps
+
+Click [Next >] button to continue installation accepting below agreements.
+
+
+
+
+Copyright 2018 The Manjari Project Authors (https://github.com/smc/manjari
+Copyright 2019 The Chilanka Project Authors (https://gitlab.com/smc/fonts/chilanka)
+
+This Font Software is licensed under the SIL Open Font License, Version 1.1.
+This license is copied below, and is also available with a FAQ at:
+http://scripts.sil.org/OFL
+
+
+-----------------------------------------------------------
+SIL OPEN FONT LICENSE Version 1.1 - 26 February 2007
+-----------------------------------------------------------
+
+PREAMBLE
+The goals of the Open Font License (OFL) are to stimulate worldwide
+development of collaborative font projects, to support the font creation
+efforts of academic and linguistic communities, and to provide a free and
+open framework in which fonts may be shared and improved in partnership
+with others.
+
+The OFL allows the licensed fonts to be used, studied, modified and
+redistributed freely as long as they are not sold by themselves. The
+fonts, including any derivative works, can be bundled, embedded, 
+redistributed and/or sold with any software provided that any reserved
+names are not used by derivative works. The fonts and derivatives,
+however, cannot be released under any other type of license. The
+requirement for fonts to remain under this license does not apply
+to any document created using the fonts or their derivatives.
+
+DEFINITIONS
+"Font Software" refers to the set of files released by the Copyright
+Holder(s) under this license and clearly marked as such. This may
+include source files, build scripts and documentation.
+
+"Reserved Font Name" refers to any names specified as such after the
+copyright statement(s).
+
+"Original Version" refers to the collection of Font Software components as
+distributed by the Copyright Holder(s).
+
+"Modified Version" refers to any derivative made by adding to, deleting,
+or substituting -- in part or in whole -- any of the components of the
+Original Version, by changing formats or by porting the Font Software to a
+new environment.
+
+"Author" refers to any designer, engineer, programmer, technical
+writer or other person who contributed to the Font Software.
+
+PERMISSION & CONDITIONS
+Permission is hereby granted, free of charge, to any person obtaining
+a copy of the Font Software, to use, study, copy, merge, embed, modify,
+redistribute, and sell modified and unmodified copies of the Font
+Software, subject to the following conditions:
+
+1) Neither the Font Software nor any of its individual components,
+in Original or Modified Versions, may be sold by itself.
+
+2) Original or Modified Versions of the Font Software may be bundled,
+redistributed and/or sold with any software, provided that each copy
+contains the above copyright notice and this license. These can be
+included either as stand-alone text files, human-readable headers or
+in the appropriate machine-readable metadata fields within text or
+binary files as long as those fields can be easily viewed by the user.
+
+3) No Modified Version of the Font Software may use the Reserved Font
+Name(s) unless explicit written permission is granted by the corresponding
+Copyright Holder. This restriction only applies to the primary font name as
+presented to the users.
+
+4) The name(s) of the Copyright Holder(s) or the Author(s) of the Font
+Software shall not be used to promote, endorse or advertise any
+Modified Version, except to acknowledge the contribution(s) of the
+Copyright Holder(s) and the Author(s) or with their explicit written
+permission.
+
+5) The Font Software, modified or unmodified, in part or in whole,
+must be distributed entirely under this license, and must not be
+distributed under any other license. The requirement for fonts to
+remain under this license does not apply to any document created
+using the Font Software.
+
+TERMINATION
+This license becomes null and void if any of the above conditions are
+not met.
+
+DISCLAIMER
+THE FONT SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,
+EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO ANY WARRANTIES OF
+MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT
+OF COPYRIGHT, PATENT, TRADEMARK, OR OTHER RIGHT. IN NO EVENT SHALL THE
+COPYRIGHT HOLDER BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY,
+INCLUDING ANY GENERAL, SPECIAL, INDIRECT, INCIDENTAL, OR CONSEQUENTIAL
+DAMAGES, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING
+FROM, OUT OF THE USE OR INABILITY TO USE THE FONT SOFTWARE OR FROM
+OTHER DEALINGS IN THE FONT SOFTWARE.
+
+================================================================================
+================================================================================
+
+Keyman­® Desktop End User Licence and Services Agreement
+
+Warning: Use of Keyman Desktop is conditional upon you agreeing to the terms of this End User Licence and Services Agreement.  Choosing “I accept the terms and conditions of this End User Licence and Services Agreement” when installing Keyman Desktop shall be deemed to be your acceptance of the terms of this End User Licence and Services Agreement.  If you do not agree, (a) choose "do not accept" and do not proceed to install or use Keyman Desktop and (b) contact Tavultesoft to arrange for a return of Keyman Desktop and any applicable refund.
+
+1.       Licence
+1.1     Tavultesoft retains the intellectual property rights in Keyman Desktop software and services and subject to the terms of this End User Licence and Services Agreement you are granted a non-exclusive perpetual right to use and enjoy Keyman Desktop and the associated licensed keyboards for which you have paid the licence fees for the licence period.
+1.2     The evaluation licence period is initially 30 days but Tavultesoft may, upon payment of the appropriate licence fees set out at www.tavultesoft.com or payment of the fees set out in the applicable quotation extend the licence period and provide you with further access codes from time to time to permit you to use Keyman Desktop.
+2.       Your obligations
+2.1     You hereby undertake not to:
+(a)      copy, reproduce, adapt, vary, modify, decompile, disassemble, reverse engineer, create derivative works of, modify, sub-license, rent, lease, loan or distribute Keyman Desktop other than as expressly authorised by this licence;
+(b)      provide or otherwise make available Keyman Desktop in any form to any person, except for the original evaluation installation package, which you may redistribute unmodified;
+(c)      interfere with the network or disrupt any other user, service or equipment;
+(d)      use Keyman Desktop for any illegal, unauthorised or dangerous purpose;
+(e)      transfer, assign, sell to or share with any other person any right under this End User Licence and Services Agreement without the prior written consent of Tavultesoft; and
+(f)      permit any act which infringes the intellectual property rights which subsist in Keyman Desktop software and services and belong to Tavultesoft.
+2.2     You hereby undertake to:
+(a)      supervise and control the use of Keyman Desktop in accordance with the terms of this licence;
+(b)      ensure that your officers, employees, sub-contractors and other agents who have authorised access to Keyman Desktop are made aware of the terms of this licence;
+(c)      advise Tavultesoft in writing within 7 days of your becoming aware of any person using Keyman Desktop who is not licensed by Tavultesoft to do so;
+(d)      backup, any data owned by you that is stored on Tavultesoft’s system or any data transmitted or caused to be transmitted over the Internet; and
+(e)      keep your password and user account details confidential and not disclose same to any other party.  Should any such disclosure occur you shall report same to Tavultesoft in writing as soon as possible.  You shall be responsible for all use of Keyman Desktop whether authorised by you or not.
+(f)      indemnify, keep indemnified and hold harmless Tavultesoft against all liabilities, taxes, costs (on a indemnity basis) and expenses, which Tavultesoft may incur to a third party as a result of
+(i)       your breach of any of the provisions of this End User Licence and Services Agreement; or
+(ii)      your use of Keyman Desktop, its documentation and any information produced.
+3.       Support
+3.1     "Tavultesoft shall provide electronic support for Keyman Desktop generally during Australian Eastern Standard Time Business hours but do not warrant an immediate response in all instances.  Should you wish to use other support services, such as on-site support, then you agree to pay the quoted rates of Tavultesoft in relation to such services which are supplied pursuant to the terms and conditions set out in this agreement."
+3.2     For current support contact details and installation instructions please visit http://www.tavultesoft.com/.
+3.3     Any period of support notified in the published rates shall be automatically renewed unless either party advises the other party in writing or by email that it does not intend to continue with such support prior to the expiration of the term. Tavultesoft reserves the right to suspend the provision of services unless its accounts are promptly paid.
+4.       Disclaimer and acknowledgments
+4.1     You acknowledge that: the use of foreign languages is a complex area and Keyman Desktop is not designed as a substitute in any way for the assistance of a skilled translator as to the correct meaning of any text you may create using Keyman Desktop;  Supplied with Keyman Desktop are certain operating instructions and a failure to follow these instructions carefully could result in erroneous output being created by Keyman Desktop; Whilst Keyman Desktop may be used by persons without a detailed knowledge of computers, Keyman Desktop is designed to be used by persons who are familiar with the respective language implemented by each keyboard;  You should check all final results created by Keyman Desktop for any anomalies;  Keyman Desktop does not check for all anomalies and data incorrectly entered may be processed without question; and Keyman Desktop is licensed to you on the strict understanding that, subject to the warranties below, Tavultesoft is not responsible for the results of any actions taken, either by you or a third party relying on the language created or not created by Keyman Desktop.
+5.       Limited Warranty, Exclusions & Limitation of Liability
+5.1     Tavultesoft shall supply Keyman Desktop software and services with all due care and skill.  Tavultesoft shall re-supply any Keyman Desktop software and services which are not supplied with due care and skill provided that you notify Tavultesoft of same within a reasonable time from the supply of the Keyman Desktop software and services.  This remedy shall be your sole and exclusive remedy for breach of this End User Licence and Services Agreement or any other cause of action against Tavultesoft.  Tavultesoft cannot and does not warrant that the Keyman Desktop shall be available 24 hours a day or that any fault shall be corrected within a specific time frame.
+5.2     Keyman Desktop is provided “AS IS” and all warranties whether express, implied, statutory or otherwise, relating in any way to the subject matter of this End User Licence and Services Agreement or to this End User Licence and Services Agreement generally, including without limitation, warranties as to: quality; fitness; merchantability; correctness; accuracy; reliability; correspondence with any description or sample, meeting your or any other requirements; uninterrupted use; compliance with any relevant legislation and being secure or error or virus free are excluded.  Tavultesoft is not responsible for, without limitation: any interruption to Keyman Desktop due to equipment failure, the need for routine maintenance, peak demand and so on; and the supply or maintenance of your equipment, software or telephone lines.  Tavultesoft does not endorse or approve of any materials on the Internet and shall not be liable in any way for such materials.
+5.3     Where any legislation implies in this End User Licence and Services Agreement any term, and that legislation avoids or prohibits provisions in a contract excluding or modifying such a term, such term shall be deemed to be included in this End User Licence and Services Agreement.  However, the liability of Tavultesoft for any breach of such term shall if permitted by that legislation be limited, at Tavultesoft’s option, to any one or more of the following: if the breach related to goods: the replacement of the goods or the supply of equivalent goods; the repair of such goods; the payment of the cost of replacing the goods or of acquiring equivalent goods; or the payment of the cost of having the goods repaired; and if the breach relates to services: the supplying of the services again; or the payment of the cost of having the services supplied again.
+5.4     Except for personal injury (including sickness and death) and the Limited Warranty above and to the extent permitted by law, Tavultesoft shall not be under any liability (contractual, tortious or otherwise) to you in respect of any loss or damage (including, without limitation, consequential loss or damage) howsoever caused, which may be suffered or incurred or which may arise directly or indirectly in respect to the supply software, goods or services pursuant to this End User Licence and Services Agreement or the act, failure or omission of Tavultesoft.
+6.       Termination
+6.1     This End User Licence and Services Agreement may be terminated without notice if
+(a)      you breach any term of this End User Licence and Services Agreement;
+(b)      you become the subject of insolvency proceedings; or if you, being a firm or partnership, are dissolved. 
+6.2     You may terminate this End User Licence and Services Agreement by sending an e-mail to sales@tavultesoft.com at any time during a licence period however, the licence fee for that period is non-refundable. 
+6.3     Termination pursuant to this clause shall not affect any rights or remedies, which Tavultesoft may have otherwise under this licence or at law.
+7.       Fees
+7.1     To the extent permitted by law and unless stated to the contrary, any fees payable pursuant to this End User Licence and Services Agreement do not include any taxes, charges, levies or duty which may be payable on the supply of such goods and services including without limitation any GST, stamp duty or otherwise.  To the extent permitted by law, you are responsible for such taxes, charges, levies and duties and shall pay same to Tavultesoft upon request.
+8.       Waiver
+8.1     No right of Tavultesoft under this End User Licence and Services Agreement shall be deemed to be waived except by notice in writing signed by Tavultesoft.  Such a waiver by Tavultesoft shall not prejudice its rights in respect of any subsequent breach of this End User Licence and Services Agreement by you.
+8.2     Any failure by Tavultesoft to enforce any provision of this End User Licence and Services Agreement, or any forbearance, delay or indulgence granted by Tavultesoft shall not be construed as a waiver of Tavultesoft’s rights
+9.       Severability
+9.1     If any provision of this End User Licence and Services Agreement is held invalid, unenforceable or illegal for any reason, this agreement shall remain otherwise in full force apart from such provision or part provision, which shall be deemed deleted.
+10.     Entire Agreement
+10.1   Unless stated expressly to the contrary in this End User Licence and Services Agreement:
+(a)      this End User Licence and Services Agreement constitutes your entire agreement for the subject matter referred to in this End User Licence and Services Agreement.  Any prior arrangements, agreements, representations or undertakings are superseded;
+(b)      this End User Licence and Services Agreement is not to be construed as creating a joint venture, partnership or agency situation.  You may not represent that there exists any such a relationship between you and Tavultesoft; and
+(c)      no modification or alteration of any provision of this End User Licence and Services Agreement shall be valid except in writing signed by Tavultesoft.
+11.     Governing Law
+11.1   This End User Licence and Services Agreement shall be governed by and construed according to the law of the State of Tasmania.
+11.2   You irrevocably submit to the exclusive jurisdiction of the courts of the State of Tasmania and the Commonwealth of Australia and any courts hearing appeals from such courts.  Any proceedings in a Commonwealth court shall be commenced in Tasmania.
+© Tavultesoft Pty Ltd 2006. All rights Reserved.
+
+ 

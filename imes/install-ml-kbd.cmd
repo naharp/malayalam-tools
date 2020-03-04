@@ -1,0 +1,1 @@
+control intl.cpl,, /f:"%~dp0\install-ml-kbd.xml"
